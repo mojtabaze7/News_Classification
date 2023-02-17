@@ -1,4 +1,4 @@
-# News_Classification
+# News Classification
 In this project news classification is done based on Transformer and BiLstm separately.
 
 ## Running
